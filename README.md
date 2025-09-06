@@ -1,4 +1,4 @@
-## Linguagens e Tecnologias 
+### Linguagens e Tecnologias 
 
 <div style="display: inline-block">
   <img alt="Python" title="Python" width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>&nbsp;
@@ -13,12 +13,12 @@
 
  <br>    
  
- ## Estatísticas GitHub
+ ### Estatísticas GitHub
  
 <div>
    <p align="center">
   <a href="https://github.com/ivykkj">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ivykkj&theme=dark&show_icons=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivykkj&layout-compact&theme=dark&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ivykkj&theme=radical&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivykkj&layout-compact&theme=radical&show_icons=true" />
   </p>
 </div>

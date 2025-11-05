@@ -18,7 +18,7 @@
 <div>
    <p align="center">
   <a href="https://github.com/ivykkj">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ivykkj&theme=jolly&show_icons=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivykkj&layout-compact&theme=jolly&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ivykkj&theme=rose&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivykkj&layout-compact&theme=rose&show_icons=true" />
   </p>
 </div>

@@ -1,7 +1,7 @@
 <!-- Ivy -->
-<a href="https://github.com/ivykkj/Ivykkj/blob/main/gif/dark-souls.gif">
-  <img src="https://github.com/ivykkj/Ivykkj/blob/main/gif/dark-souls.gif" alt="DS3 GIF" style="width:1050px; height:500px" />
-</a>
+<div align="center">
+  <img src="https://github.com/ivykkj/Ivykkj/blob/main/gif/dark-souls.gif?raw=true" alt="DS3 GIF" style="width:auto; height:auto; border-radius: 10px;" />
+</div>
 
 <!-- About Me -->
 <h2 align="center"> About Me</h2>

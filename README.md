@@ -1,6 +1,6 @@
 <!-- Ivy -->
 <div align="center">
-  <img src="https://github.com/ivykkj/Ivykkj/blob/main/gif/dark-souls.gif?raw=true" alt="DS3 GIF" style="width:auto; height:auto; border-radius: 10px;" />
+  <img src="https://github.com/ivykkj/Ivykkj/blob/main/gif/dark-souls.gif?raw=true" alt="DS3 GIF" width="100%" style="max-width: 600px; border-radius: 10px;" />
 </div>
 
 <!-- About Me -->
@@ -14,7 +14,7 @@
 <br>
 
 <!-- Languages & Tools -->
-<h2 align="center"> Languages & Tools i have placed my hands on</h2>
+<h2 align="center"> Languages & Tools I have worked with</h2>
 <div align="center">
   <div style="display: inline-block">
   <img alt="Python" title="Python" width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>&nbsp;

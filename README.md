@@ -37,7 +37,7 @@
 <h2 align="center"> GitHub Stats</h2>
 <div align="center">
   <a href="https://github.com/ivykkj">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ivykkj&theme=omni&show_icons=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivykkj&layout-compact&theme=omni&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ivykkj&theme=transparent&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivykkj&layout-compact&theme=transparent&show_icons=true" />
   </p>
 </div>

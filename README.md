@@ -1,21 +1,18 @@
-<!-- Ivy -->
 <div align="center">
   <img src="https://github.com/ivykkj/Ivykkj/blob/main/gif/dark-souls.gif?raw=true" alt="DS3 GIF" width="100%" style="max-width: 600px; border-radius: 10px;" />
 </div>
 
-<!-- About Me -->
-<h2 align="center"> About Me</h2>
-<p align="center">
-  I'm Cauan Melo, 19, from Diadema-SP.<br>
-  Currently a student of Systems Analysis and Development at Faculdade Impacta. I am a technology enthusiast transitioning my career to software development.<br>
-  I love resolving logic puzzles and am looking for my first opportunity as an intern to apply my skills.<br>
+<h2>Sobre Mim</h2>
+<p>
+  Olá!! meu nome é Cauan Melo, tenho 20 anos e moro em Diadema-SP;<br>
+  
+  Atualmente estou cursando Análise e Desenvolvimento de Sistemas e na busca de uma primeira oportunidade na área.
 </p>
 
 <br>
 
-<!-- Languages & Tools -->
-<h2 align="center"> Languages & Tools I have worked with</h2>
-<div align="center">
+<h2>Linguagens e Tecnologias</h2>
+<div>
   <div style="display: inline-block">
   <img alt="Python" title="Python" width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>&nbsp;
   <img alt="JavaScript" title="JavaScript" width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>&nbsp;
@@ -33,9 +30,8 @@
 
 <br>
  
-<!-- GitHub Status -->
-<h2 align="center"> GitHub Stats</h2>
-<div align="center">
+<h2>Estatísticas do GitHub</h2>
+<div>
   <a href="https://github.com/ivykkj">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ivykkj&theme=transparent&show_icons=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivykkj&layout-compact&theme=transparent&show_icons=true" />

@@ -6,7 +6,7 @@
 <p>
   Olá!! meu nome é Cauan Melo, tenho 20 anos e moro em Diadema-SP;<br>
   
-  Atualmente estou cursando Análise e Desenvolvimento de Sistemas e na busca de uma primeira oportunidade na área.
+  Atualmente estou cursando Análise e Desenvolvimento de Sistemas e trabalhando como Suporte de TI.
 </p>
 
 <br>

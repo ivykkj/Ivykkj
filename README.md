@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ivykkj/Ivykkj/blob/main/gif/dark-souls.gif?raw=true" alt="DS3 GIF" width="100%" style="max-width: 600px; border-radius: 10px;" />
+  <img src="/home/ivy/Projetos/Ivykkj/gif/fireplace.gif" alt="DS3 GIF" width="100%" style="max-width: 600px; border-radius: 10px;" />
 </div>
 
 <h2>Sobre Mim</h2>

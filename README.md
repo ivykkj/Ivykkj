@@ -31,9 +31,7 @@
 <br>
  
 <h2>Estatísticas do GitHub</h2>
-<div>
-  <a href="https://github.com/ivykkj">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ivykkj&theme=transparent&show_icons=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivykkj&layout-compact&theme=transparent&show_icons=true" />
-  </p>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img height="150em" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="150em" src="./profile/top-langs.svg" alt="Top Languages" />
 </div>

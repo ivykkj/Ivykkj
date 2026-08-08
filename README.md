@@ -1,37 +1,77 @@
-<div align="center">
-  <img src="https://github.com/ivykkj/Ivykkj/blob/main/gif/fireplace.gif?raw=true" alt="DS3 GIF" width="100%" style="max-width: 600px; border-radius: 10px;" />
-</div>
+Meu nome é **Cauan** e sou desenvolvedor de software focado atualmente em desenvolvimento backend, aplicações de desktop e sistemas embarcados(IoT). 
 
-<h2>Sobre Mim</h2>
-<p>
-  Olá!! meu nome é Cauan Melo, tenho 20 anos e moro em Diadema-SP;<br>
-  
-  Atualmente estou cursando Análise e Desenvolvimento de Sistemas e trabalhando como Suporte de TI.
+## Contato
+
+* **Email:** cauandemelo2018@gmail.com
+* **Linkedin:** [in/cauan-melo](https://www.linkedin.com/in/cauan-melo/)
+
+---
+
+## Áreas de Domínio
+
+* **Linguagens:** Python, C.
+* **Frameworks & Libs:** Flask, SQLAlchemy, CustomTkinter.
+* **Bancos de Dados & Ferramentas:** SQLite, Git, Docker/DockerCompose, Linux.
+
+---
+
+## Projetos pessoais
+
+Alguns projetos que venho trabalhando constantemente:
+
+### Educa Desk (WIP-desenvolvendo o backend)
+
+Sistema simples de Help Desk open source que permite registrar tarefas/chamados, base de conhecimento com soluções, documentos e etc....
+>[!NOTE]
+>O repositório está temporariamente privado e será publicado assim que o MVP estiver funcional.
+
+* **Stack:** Python | SQLite | CustomTKinter 
+* **Futuras implementações:** Atendimento que centraliza diferentes canais de comunicação e um Painel com relatórios e métricas com dados gerais sobre as tarefas/chamados.
+
+### Pico GBC (WIP-em fase de pesquisa)
+
+Fork do [Emulador de Game Boy (DMG) para o microcontrolador Raspberry Pi RP2040 do YouMakeTech](https://github.com/YouMakeTech/Pico-GB), tenho algumas implementações em mente, mas a principal é emular o ecossistema do Game Boy Color na RP2040.
+
+* **Stack:** C | PicoSDK
+* **Futuras implementações:**
+  * Atualizar drivers de tela(ST7789) e áudio(PAM8403).
+  * Implementar SaveState direto no Flash/SD
+  * Implementar Cheat Engine (GameShark, Game Genie)
+  * Otimizar o consumo de energia diminuindo e aumentando o clock da placa dinamicamente
+  * Implementar multiplayer via cabo link 
+  * Implementar o ecossistema do Game Boy Color 
+
+## Projetos Acadêmicos
+
+Alguns dos projetos que trabalhei durante minha graduação:
+
+### Gerenciamento Escolar
+
+Sistema que gerencia as operações de uma instituição de ensino.
+
+* **Stack:** Python | Flask | SQLite | Docker | SQLAlchemy | Swagger UI 
+* [github.com/ivykkj/Gerenciamento-Escolar](https://github.com/ivykkj/Gerenciamento-Escolar)
+
+### Market Stock API
+
+Sistema para gestão de estoque e vendas para pequenos negócios (mercadinho, mercearia, loja de conveniência e etc...).
+
+* **Stack:** Python | Flask | SQLite | Docker | SQLAlchemy | Swagger UI | Twilio
+* **Contribuição Principal:** Autenticação de conta pelo Whatsapp no momento do cadastro de um vendedor usando a ferramenta do Twilio.
+* [github.com/LucasAguiarN/MarketStock](https://github.com/LucasAguiarN/MarketStock) 
+
+### Eazy Car
+
+Sistema de gestão uma locadora de carros.
+
+* **Stack:** Python | Flask | JavaScript | HTML5 | CSS | MySQL | Docker
+* **Contribuição Principal**: Implementação de reserva de veículos(Back-End & Front-End).
+* [github.com/LucasAguiarN/EazyCar](https://github.com/LucasAguiarN/EazyCar)
+
+---
+
+<br>
+
+<p align="center">
+  <img src="gif/smile.gif" alt=":)" />
 </p>
-
-<br>
-
-<h2>Linguagens e Tecnologias</h2>
-<div>
-  <div style="display: inline-block">
-  <img alt="Python" title="Python" width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>&nbsp;
-  <img alt="JavaScript" title="JavaScript" width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>&nbsp;
-  <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>&nbsp;
-  <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>&nbsp;
-  <img alt="SQLite" title="SQLite" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>&nbsp;
-  <img alt="SQL Alchemy" title="SQL Alchemy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg"/>&nbsp;  
-  <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>&nbsp;
-  <img alt="SQLServer" title="SQLServer" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>&nbsp;
-  <img alt="AWS" title="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>&nbsp;
-  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>&nbsp;
-  <img alt="Docker" title="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/>&nbsp;
-</div>
-</div>
-
-<br>
- 
-<h2>Estatísticas do GitHub</h2>
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img height="150em" src="./profile/stats.svg" alt="GitHub Stats" />
-  <img height="150em" src="./profile/top-langs.svg" alt="Top Languages" />
-</div>

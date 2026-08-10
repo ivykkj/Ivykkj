@@ -5,6 +5,10 @@ Meu nome é **Cauan** e sou desenvolvedor de software focado atualmente em desen
 * **Email:** cauandemelo2018@gmail.com
 * **Linkedin:** [in/cauan-melo](https://www.linkedin.com/in/cauan-melo/)
 
+<p align="center">
+  <img src="gif/geoshape.gif" alt="#°^" />
+</p>
+
 ---
 
 ## Áreas de Domínio
@@ -21,7 +25,7 @@ Alguns projetos que venho trabalhando constantemente:
 
 ### Educa Desk (WIP-desenvolvendo o backend)
 
-Sistema simples de Help Desk open source que permite registrar tarefas/chamados, base de conhecimento com soluções, documentos e etc....
+App Help Desk simples que permite registrar tarefas/chamados, base de conhecimento com soluções, documentos e etc....
 >[!NOTE]
 >O repositório está temporariamente privado e será publicado assim que o MVP estiver funcional.
 
@@ -30,11 +34,11 @@ Sistema simples de Help Desk open source que permite registrar tarefas/chamados,
 
 ### Pico GBC (WIP-em fase de pesquisa)
 
-Fork do [Emulador de Game Boy (DMG) para o microcontrolador Raspberry Pi RP2040 do YouMakeTech](https://github.com/YouMakeTech/Pico-GB), tenho algumas implementações em mente, mas a principal é emular o ecossistema do Game Boy Color na RP2040.
+Fork do Emulador de Game Boy (DMG) para o microcontrolador Raspberry Pi RP2040 do [YouMakeTech](https://github.com/YouMakeTech/Pico-GB), tenho algumas implementações em mente, mas a principal é emular o ecossistema do Game Boy Color na RP2040.
 
 * **Stack:** C | PicoSDK
 * **Futuras implementações:**
-  * Atualizar drivers de tela(ST7789) e áudio(PAM8403).
+  * Atualizar drivers de tela (ST7789) e áudio (PAM8403).
   * Implementar SaveState direto no Flash/SD
   * Implementar Cheat Engine (GameShark, Game Genie)
   * Otimizar o consumo de energia diminuindo e aumentando o clock da placa dinamicamente
@@ -65,7 +69,7 @@ Sistema para gestão de estoque e vendas para pequenos negócios (mercadinho, me
 Sistema de gestão uma locadora de carros.
 
 * **Stack:** Python | Flask | JavaScript | HTML5 | CSS | MySQL | Docker
-* **Contribuição Principal**: Implementação de reserva de veículos(Back-End & Front-End).
+* **Contribuição Principal**: Implementação de reserva de veículos (Back-End & Front-End).
 * [github.com/LucasAguiarN/EazyCar](https://github.com/LucasAguiarN/EazyCar)
 
 ---

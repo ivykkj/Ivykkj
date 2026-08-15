@@ -14,36 +14,13 @@ Meu nome é **Cauan** e sou desenvolvedor de software focado atualmente em desen
 ## Áreas de Domínio
 
 * **Linguagens:** Python, C.
-* **Frameworks & Libs:** Flask, SQLAlchemy, CustomTkinter.
+* **Frameworks & Libs:** Flask, SQLAlchemy.
 * **Bancos de Dados & Ferramentas:** SQLite, Git, Docker/DockerCompose, Linux.
 
 ---
 
-## Projetos pessoais
-
-Alguns projetos que venho trabalhando constantemente:
-
-### Educa Desk (WIP-desenvolvendo o backend)
-
-App Help Desk simples que permite registrar tarefas/chamados, base de conhecimento com soluções, documentos e etc....
 >[!NOTE]
->O repositório está temporariamente privado e será publicado assim que o MVP estiver funcional.
-
-* **Stack:** Python | SQLite | CustomTKinter 
-* **Futuras implementações:** Atendimento que centraliza diferentes canais de comunicação e um Painel com relatórios e métricas com dados gerais sobre as tarefas/chamados.
-
-### Pico GBC (WIP-em fase de pesquisa)
-
-Fork do Emulador de Game Boy (DMG) para o microcontrolador Raspberry Pi RP2040 do [YouMakeTech](https://github.com/YouMakeTech/Pico-GB), tenho algumas implementações em mente, mas a principal é emular o ecossistema do Game Boy Color na RP2040.
-
-* **Stack:** C | PicoSDK
-* **Futuras implementações:**
-  * Atualizar drivers de tela (ST7789) e áudio (PAM8403).
-  * Implementar SaveState direto no Flash/SD
-  * Implementar Cheat Engine (GameShark, Game Genie)
-  * Otimizar o consumo de energia diminuindo e aumentando o clock da placa dinamicamente
-  * Implementar multiplayer via cabo link 
-  * Implementar o ecossistema do Game Boy Color 
+>Atualmente venho trabalhando em projetos autorais envolvendo Sistemas Embarcados com C e Aplicações Desktop com C#, com foco no aprendizado prático de novas stacks e ferramentas. O código será publicado assim que os MVPs ficarem prontos :D.
 
 ## Projetos Acadêmicos
 

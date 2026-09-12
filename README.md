@@ -28,7 +28,7 @@ Alguns dos projetos que trabalhei durante minha graduação em Analise e Desenvo
 
 ### Gerenciamento Escolar
 
-Sistema que gerencia as operações de uma instituição de ensino.
+Uma aplicação que gerencia operações de uma instituição de ensino, utilizando uma arquitetura de microsserviços separando as responsabilidades em domínios de negócio distintos.
 
 * **Stack:** Python | Flask | SQLite | Docker | SQLAlchemy | Swagger UI 
 * [github.com/ivykkj/Gerenciamento-Escolar](https://github.com/ivykkj/Gerenciamento-Escolar)

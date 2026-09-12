@@ -20,11 +20,11 @@ Meu nome é **Cauan** e sou desenvolvedor de software focado atualmente em desen
 ---
 
 >[!NOTE]
->Atualmente venho trabalhando em projetos autorais envolvendo Sistemas Embarcados com C e Aplicações Desktop com C#, com foco no aprendizado prático de novas stacks e ferramentas. O código será publicado assim que os MVPs ficarem prontos :D.
+>Atualmente venho trabalhando em projetos autorais envolvendo Sistemas Embarcados com C e Aplicações Desktop com Python, com foco no aprendizado prático de novas stacks e ferramentas. O código será publicado assim que os MVPs ficarem prontos :D.
 
 ## Projetos Acadêmicos
 
-Alguns dos projetos que trabalhei durante minha graduação:
+Alguns dos projetos que trabalhei durante minha graduação em Analise e Desenvolvimento de Sistemas:
 
 ### Gerenciamento Escolar
 

@@ -38,7 +38,7 @@ Uma aplicação que gerencia operações de uma instituição de ensino, utiliza
 Sistema para gestão de estoque e vendas para pequenos negócios (mercadinho, mercearia, loja de conveniência e etc...).
 
 * **Stack:** Python | Flask | SQLite | Docker | SQLAlchemy | Swagger UI | Twilio
-* **Contribuição Principal:** Autenticação de conta pelo Whatsapp no momento do cadastro de um vendedor usando a ferramenta do Twilio.
+* **Minha Contribuição Principal:** Autenticação de conta pelo Whatsapp no momento do cadastro de um vendedor usando a ferramenta do Twilio.
 * [github.com/LucasAguiarN/MarketStock](https://github.com/LucasAguiarN/MarketStock) 
 
 ### Eazy Car
@@ -46,7 +46,7 @@ Sistema para gestão de estoque e vendas para pequenos negócios (mercadinho, me
 Sistema de gestão uma locadora de carros.
 
 * **Stack:** Python | Flask | JavaScript | HTML5 | CSS | MySQL | Docker
-* **Contribuição Principal**: Implementação de reserva de veículos (Back-End & Front-End).
+* **Minha Contribuição Principal**: Implementação de reserva de veículos (Back-End & Front-End).
 * [github.com/LucasAguiarN/EazyCar](https://github.com/LucasAguiarN/EazyCar)
 
 ---
